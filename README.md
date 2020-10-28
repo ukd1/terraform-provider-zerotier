@@ -1,6 +1,6 @@
 # Terraform provider for ZeroTier
 
-[![Build Status](https://travis-ci.org/cormacrelf/terraform-provider-zerotier.svg?branch=master)](https://travis-ci.org/cormacrelf/terraform-provider-zerotier)
+[![Build Status](https://travis-ci.org/ukd1/terraform-provider-zerotier.svg?branch=master)](https://travis-ci.org/ukd1/terraform-provider-zerotier)
 
 This lets you create, modify and destroy [ZeroTier](https://zerotier.com)
 networks and members through Terraform.
